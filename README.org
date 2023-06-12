@@ -1,0 +1,10 @@
+* format-string-builder
+
+A DSL wrapping cl:format's syntax with something more lispy
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fiddlerwoaroof/format-string-builder.git   |
+| commit  | 7a75a97  |
+| systems | format-string-builder |
+|---------+-------------------------------------------|
+
